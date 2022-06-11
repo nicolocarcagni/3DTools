@@ -21,3 +21,15 @@ function flusso(){
     document.getElementById('result').innerHTML = "Nuovo valore fusso: " + fls.toFixed(2);
     document.getElementById('result0').innerHTML = "Valore 1° layer: " + lyr.toFixed(2);
 }
+
+function se(){
+    alert("GCODE: M503")
+}
+
+function sc(){
+    alert("GCODE: G1 E150 F1000")
+}
+
+function sr(){
+    alert("Misura il segmento estruso e inserisci il valore ottenuto")
+}

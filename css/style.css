@@ -12,11 +12,6 @@ a{
     text-align: center;
 }
 
-#guida:hover{
-    transition: 0.6s ease;
-    color: #992e26;
-}
-
 #logo{
     width: 180px;
 }
